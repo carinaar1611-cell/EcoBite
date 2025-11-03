@@ -25,7 +25,6 @@
       </ul>
       <p class="mt-3 font-medium">Total reaproveitado: <span class="text-green-700">65 kg de alimentos</span></p>
     </section>
-
     <section class="bg-white rounded-2xl shadow p-6">
       <h2 class="text-2xl font-semibold text-green-800 mb-3">Impacto Ambiental</h2>
       <ul class="list-disc ml-6">
@@ -35,7 +34,6 @@
       </ul>
       <p class="text-sm text-stone-600 mt-2">*Cálculos baseados em dados da FAO, UNEP e Our World in Data.</p>
     </section>
-
     <section class="bg-white rounded-2xl shadow p-6">
       <h2 class="text-2xl font-semibold text-green-800 mb-3">Controlo de Qualidade</h2>
       <ul class="list-disc ml-6">
@@ -44,13 +42,11 @@
         <li>✅ Aprovado por: Dr. Luís Ferreira, veterinário-nutricionista</li>
       </ul>
     </section>
-
     <section class="bg-white rounded-2xl shadow p-6">
       <h2 class="text-2xl font-semibold text-green-800 mb-3">Impacto Social</h2>
       <p>🐕 Parte deste lote alimentou <strong>12 cães do abrigo Animais com Futuro</strong>, em parceria com a Câmara Municipal de Cascais.</p>
       <p class="mt-2 italic text-green-700">Cada saco comprado ajuda a alimentar outro animal.</p>
     </section>
-
     <section class="bg-green-100 rounded-2xl p-6 border border-green-300">
       <h2 class="text-2xl font-semibold text-green-800 mb-3">Economia Circular</h2>
       <div class="text-center">
@@ -58,13 +54,11 @@
       </div>
       <p class="text-center text-stone-600 mt-3 text-sm">Fechamos o ciclo — nada se perde, tudo se transforma em nutrição e impacto positivo.</p>
     </section>
-
     <section class="text-center">
       <h2 class="text-xl font-semibold text-green-800">Transparência e Verificação</h2>
       <p class="text-sm text-stone-600 mt-2">Dados verificados por consultoria independente e disponíveis mediante solicitação.</p>
       <p class="text-xs text-stone-500 mt-1">Fontes: FAO (2021), UNEP (2021), INE (2023), EFSA (2022)</p>
     </section>
-
     <section class="text-center p-6">
       <p class="text-lg font-semibold text-green-800">“Alimenta o teu amigo. Salva comida. Salva o planeta.”</p>
       <p class="text-sm text-stone-500">EcoBite © 2025 – Ração circular com propósito.</p>
